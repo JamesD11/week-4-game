@@ -1,0 +1,91 @@
+* {
+	box-sizing: border-box;
+}
+
+#container{
+	background-image: url(images/background_img.jpg);
+	margin: 15px;
+	text-align: center;
+
+
+}
+
+#head{
+	background-color: orange;
+	color: white;
+	width: 25%;
+	height: 40px;
+	padding-top: 10px;
+	font-size: 20px;
+	margin: 10px;
+}
+
+#main-body{
+	color: green;
+	background-color: lightyellow;
+	height:200px;
+	width: 43%;
+	padding:10px;
+	margin: 10px;
+}
+
+#number{
+	font-size: 30px;
+	color: purple;
+	background-color: lightgreen;
+	height: 60px;
+	width: 75px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#counter{
+	background-color: lightskyblue;
+	position: relative;
+	top: 35%;
+	left: 8%;
+	height:80px; 
+	width: 100px;
+	padding: 10px;
+	margin: 10px;
+}
+
+#jewels{
+	
+	top:65%;
+	left: 5%;
+	display: inline-block;
+	margin: 10px;
+	height: 10px;
+	width: 100px;
+	
+}
+.bling{
+	display: inline-block;
+	height: 50px;
+	width: 50px;
+}
+
+#total{
+	
+	color: white;
+	background-color: teal;
+	height: 50px;
+	width: 150px;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+#score{
+	
+	background-color: teal;
+	color: white;
+	height: 100px;
+	width: 350px;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+
